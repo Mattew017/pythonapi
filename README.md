@@ -34,7 +34,7 @@
 Первый способ. С помощью github.
 
 ```
-git clone https://github.com/Mattew017/pythonapi.git
+git clone https://github.com/Mattew017/testtask.git
 ```
 
 ```
