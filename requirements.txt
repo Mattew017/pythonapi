@@ -1,0 +1,4 @@
+fastapi
+cachetools
+uvicorn
+python-multipart
