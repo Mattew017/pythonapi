@@ -2,9 +2,7 @@ version: '3.9'
 
 services:
   server:
-    build: .
-    command: uvicorn app.main:app --host 0.0.0.0
-    volumes:
-      - .:/app
+    build: ./server/
     ports:
       - 8008:8000
+    image: mattew017/pythonapi
